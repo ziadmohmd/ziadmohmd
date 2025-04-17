@@ -64,3 +64,7 @@
 
 
 
+<video width="100%" autoplay muted loop style="border-radius: 12px; box-shadow: 0 0 30px #ffffff80;">
+  <source src="cosmic_walk_4k.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
