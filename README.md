@@ -64,12 +64,10 @@
 
 
 
-<div align="center" style="background-color: #000; padding: 20px;">
-  <img src="dpnkllp5.gif" 
-       alt="Walking into the Galaxy" 
-       width="400" 
-       style="border-radius: 12px; box-shadow: 0 0 30px #ffffff80;" />
-  <h3 style="color: #fff; font-family: 'Segoe UI', sans-serif; margin-top: 10px;">
-    🚶‍♂️ Walking into the infinite — Powered by Imagination
-  </h3>
+
+<div align="center">
+  <img src="https://github.com/yourusername/yourrepo/blob/main/dpnkllp5.gif?raw=true" 
+       alt="Cosmic Walk GIF" 
+       width="800" 
+       style="border-radius: 12px; box-shadow: 0 0 20px #ffffff;" />
 </div>
