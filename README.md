@@ -4,18 +4,17 @@
 
 </div>
 
- 
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python logo" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML logo" />
+  <img
+      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40"
+      height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer">
 
 
   <!-- Android -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" height="40" alt="Android logo" />
 
   <!-- Data Science and Machine Learning -->
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python logo" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML logo" />
-  <img
-      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40"
-      height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40" alt="Pandas logo" />
   <img src="https://numpy.org/images/logo.svg" height="40" alt="NumPy logo" />
      <img src="https://matplotlib.org/_static/images/logo2.svg" height="25" alt="Matplotlib logo" />
