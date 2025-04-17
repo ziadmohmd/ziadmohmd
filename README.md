@@ -63,10 +63,10 @@
 <br><br>
 
 
-<div align="center">
+<div align="left">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJtcGFkM3VibHR0ZG8zenNic2tvcml5aXYwd245bGh2Nmw2c2RhdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8ki6aWRvqs7fy/giphy.gif" 
        alt="Cool Animation GIF" 
-       width="700" 
+       width="200" 
        style="border-radius: 12px; box-shadow: 0 0 20px #fff;" />
 </div>
 
