@@ -64,11 +64,12 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmIyMjY5MW1pOHY0YjF6em40b2p4YTVpcXhvZWNoM3l5aHJtemh2byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7budMRwZvNGJ3pyE/giphy.gif" 
-       alt="Galaxy Vibes GIF" 
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJtcGFkM3VibHR0ZG8zenNic2tvcml5aXYwd245bGh2Nmw2c2RhdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8ki6aWRvqs7fy/giphy.gif" 
+       alt="Cool Animation GIF" 
        width="700" 
-       style="border-radius: 12px; box-shadow: 0 0 20px #ffffff;" />
+       style="border-radius: 12px; box-shadow: 0 0 20px #fff;" />
 </div>
+
 
 
 
