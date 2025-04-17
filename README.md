@@ -3,3 +3,42 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=800&lines=MOHAMMED+ZIYAAD)](https://git.io/typing-svg)
 
 </div>
+
+<div align="left">
+
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python logo" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML logo" />
+
+  <!-- Design -->
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" height="40" alt="Adobe Illustrator logo" />
+
+  <!-- Android -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" height="40" alt="Android logo" />
+
+  <!-- Data Science & ML -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40" alt="Pandas logo" />
+  <img src="https://numpy.org/images/logo.svg" height="40" alt="NumPy logo" />
+  <img src="https://matplotlib.org/_static/images/logo2.svg" height="25" alt="Matplotlib logo" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="Seaborn logo" />
+  <img src="https://scikit-learn.org/stable/_images/scikit-learn-logo-notext.png" height="40" alt="Scikit-learn logo" />
+
+  <!-- Databases -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL logo" />
+
+  <!-- Cloud Platforms -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS logo" />
+  <img src="https://skillicons.dev/icons?i=googlecloud" height="40" alt="Google Cloud logo" />
+
+  <!-- Dev Tools -->
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code logo" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="GitLab logo" />
+
+  <!-- Operating Systems -->
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux logo" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="Ubuntu logo" />
+  <img src="https://skillicons.dev/icons?i=windows" height="40" alt="Windows logo" />
+
+</div>
