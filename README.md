@@ -63,11 +63,14 @@
 <br><br>
 
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
+    <img src="https://github.com/yourusername/yourrepo/blob/main/dpnkllp5.gif?raw=true" 
+         alt="Click to watch on YouTube" 
+         width="800" 
+         style="border-radius: 12px; box-shadow: 0 0 20px #fff;" />
+  </a>
+</p>
 
 
-<div align="center">
-  <img src="https://github.com/yourusername/yourrepo/blob/main/dpnkllp5.gif?raw=true" 
-       alt="Cosmic Walk GIF" 
-       width="800" 
-       style="border-radius: 12px; box-shadow: 0 0 20px #ffffff;" />
-</div>
+
