@@ -5,11 +5,11 @@
 </div>
 
 <p align="left">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXExd2lkeTUxcHlzNHk1M2F3eXlwa2w4d2xheHRvMXUzbG5oN2pzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nR4f2N4SOARyM/giphy.gif" 
-       width="40" alt="Spider-Man GIF" />
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJtcGFkM3VibHR0ZG8zenNic2tvcml5aXYwd245bGh2Nmw2c2RhdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8ki6aWRvqs7fy/giphy.gif" 
-       width="75" alt="Cool Animation GIF" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXExd2lkeTUxcHlzNHk1M2F3eXlwa2w4d2xheHRvMXUzbG5oN2pzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nR4f2N4SOARyM/giphy.gif" width="60" alt="Spider-Man GIF" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJtcGFkM3VibHR0ZG8zenNic2tvcml5aXYwd245bGh2Nmw2c2RhdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8ki6aWRvqs7fy/giphy.gif" width="112" alt="Cool Animation GIF" />
+  <img src="https://media.giphy.com/media/FhRNwJx74OO9mOs8Yy/giphy.gif" width="90" alt="Iron Man GIF" />
 </p>
+
 
 
 
@@ -60,17 +60,4 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
 
 <br><br>
-
-
-
-
-
-
-<p align="left">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXExd2lkeTUxcHlzNHk1M2F3eXlwa2w4d2xheHRvMXUzbG5oN2pzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nR4f2N4SOARyM/giphy.gif" width="40" alt="Spider-Man GIF" />
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJtcGFkM3VibHR0ZG8zenNic2tvcml5aXYwd245bGh2Nmw2c2RhdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8ki6aWRvqs7fy/giphy.gif" width="40" alt="Cool Animation GIF" />
-  <img src="https://media.giphy.com/media/FhRNwJx74OO9mOs8Yy/giphy.gif" width="40" alt="Iron Man GIF" />
-</p>
-
-
 
