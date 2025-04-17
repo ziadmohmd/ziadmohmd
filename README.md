@@ -48,3 +48,10 @@
   <img src="https://skillicons.dev/icons?i=windows" height="40" alt="Windows logo" />
 
 </div>
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" alt="Spider-Man Swing" width="300" />
+  <h3 style="color: white;">🕸️ Welcome to @ziyadai's GitHub 🕸️</h3>
+</div>
+
