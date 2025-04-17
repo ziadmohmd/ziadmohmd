@@ -7,7 +7,7 @@
 <div align="left">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXExd2lkeTUxcHlzNHk1M2F3eXlwa2w4d2xheHRvMXUzbG5oN2pzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nR4f2N4SOARyM/giphy.gif" 
        alt="Amazing Spider-Man GIF" 
-       width="50" 
+       width="30" 
        style="border-radius: 12px; box-shadow: 0 0 20px #ff0000;" />
   <h3 style="color: #fff; font-family: Arial;">
 </div>
