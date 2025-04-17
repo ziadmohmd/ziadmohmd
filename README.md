@@ -6,29 +6,6 @@
 
 
 
-<div align="left" style="display: flex; align-items: center; gap: 20px;">
-
-  <!-- Batman Section -->
-  <div style="text-align: center;">
-    <img src="https://media.giphy.com/media/VFwwiVbXK991IE9NzL/giphy.gif" 
-         alt="Batman GIF" 
-         width="50" 
-         style="border-radius: 10px; box-shadow: 0 0 10px #FFD700;" />
-    <h4 style="color: #fff; font-family: 'Segoe UI'; margin: 5px 0;">🦇 Batman</h4>
-  </div>
-
-  <!-- Spider-Man Section -->
-  <div style="text-align: center;">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXExd2lkeTUxcHlzNHk1M2F3eXlwa2w4d2xheHRvMXUzbG5oN2pzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nR4f2N4SOARyM/giphy.gif" 
-         alt="Spider-Man GIF" 
-         width="60" 
-         style="border-radius: 12px; box-shadow: 0 0 10px #ff0000;" />
-    <h4 style="color: #fff; font-family: 'Arial'; margin: 5px 0;">🕷️ Spider-Man</h4>
-  </div>
-
-</div>
-
-
 
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
