@@ -62,4 +62,10 @@
 
 
 
-
+<div align="center">
+  <img src="https://media.giphy.com/media/VFwwiVbXK991IE9NzL/giphy.gif" 
+       alt="Batman GIF" 
+       width="350" 
+       style="border-radius: 10px; box-shadow: 0 0 20px #FFD700;" />
+  <h3 style="color: #fff; font-family: 'Segoe UI', sans-serif;">
+</div>
