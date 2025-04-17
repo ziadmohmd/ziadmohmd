@@ -4,12 +4,13 @@
 
 </div>
 
+<div align="center">
+<h2><img src="https://github.com/ziadmohmd/ziadmohmd/blob/master/gifs/Hi.gif" width="30px"></h2>
+</div>
 
 <div align="center" width="50">
 
   <img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
-
-  <h3 style="color: white; font-family: Arial;">Welcome to <strong>@ziyadai</strong>'s GitHub! 🧠💻</h3>
 
 </div>
 
