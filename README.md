@@ -4,6 +4,13 @@
 
 </div>
 
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&lines=MOHAMMED+ZIYAAD)](https://git.io/typing-svg)
+
+</div>
+
 <p align="left">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXExd2lkeTUxcHlzNHk1M2F3eXlwa2w4d2xheHRvMXUzbG5oN2pzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nR4f2N4SOARyM/giphy.gif" width="60" alt="Spider-Man GIF" />
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJtcGFkM3VibHR0ZG8zenNic2tvcml5aXYwd245bGh2Nmw2c2RhdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8ki6aWRvqs7fy/giphy.gif" width="112" alt="Cool Animation GIF" />
