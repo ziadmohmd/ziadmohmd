@@ -63,14 +63,13 @@
 <br><br>
 
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
-    <img src="https://github.com/yourusername/yourrepo/blob/main/dpnkllp5.gif?raw=true" 
-         alt="Click to watch on YouTube" 
-         width="800" 
-         style="border-radius: 12px; box-shadow: 0 0 20px #fff;" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmIyMjY5MW1pOHY0YjF6em40b2p4YTVpcXhvZWNoM3l5aHJtemh2byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7budMRwZvNGJ3pyE/giphy.gif" 
+       alt="Galaxy Vibes GIF" 
+       width="700" 
+       style="border-radius: 12px; box-shadow: 0 0 20px #ffffff;" />
+</div>
+
 
 
 
