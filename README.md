@@ -65,4 +65,7 @@
 <br><br>
 
 
+<p align="center">
+  <img src="path/to/your/local/gif.gif" width="300" alt="GIF">
+</p>
 
