@@ -66,7 +66,7 @@
 
 
 
-<p align="center">
+<p align="left">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZhanZwemgwemlqMTFqN2cxMmR0Y3dubXdmb3VmenBvbHVwaXh3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3csHmz0cLv8IxlUfga/giphy.gif" 
        width="300" alt="GIF">
 </p>
