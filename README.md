@@ -2,6 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=%23ff0000&center=true&vCenter=true&width=800&lines=MOHAMMED+ZIYAD)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=%2300ff00&center=true&vCenter=true&width=800&lines=WELCOME)](https://git.io/typing-svg)
+
+
 </div>
 
 
